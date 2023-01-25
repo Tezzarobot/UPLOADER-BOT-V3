@@ -30,17 +30,15 @@ I Am Telegram URL Uploader Bot.
  
 """
     ABOUT_TEXT = """
-**📛 My Name** : [Uploader Bot V3 🚀](http://t.me/UploadFlieBot)
+**📛 My Name** : [Uploader Bot V3 🚀](https://t.me/Gw_urluploaderbot)
 
-**❤️ Version** : [2.3 🔥](http://t.me/UploadFlieBot)
-
-**🤖 Source** : [Click](https://github.com/LISA-KOREA/UPLOADER-BOT-V3)
+**❤️ Version** : [2.3 🔥](http://t.me/Gw_urluploaderbot)
 
 **🧿 Language** : [Python 3.10.9](https://www.python.org/)
 
 **📢 Framework** : [Pyrogram 1.4.16](https://docs.pyrogram.org/)
 
-**👨‍💻 Developer** : [LISA](https://t.me/LISA_FAN_KL)
+**👨‍💻 Developer** : [LISA](https://t.me/Althafser)
 
 """
 
